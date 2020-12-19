@@ -1,2 +1,0 @@
-# pet-pals
-heroku test
